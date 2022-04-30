@@ -4,13 +4,9 @@ The aim of our program is to create a website to help combat prejudice by connec
 ### Using the Website
 | Page     | Description |
 | ----------- | ----------- |
-| Home      | Title       |
-| Assessments   | Text        |
-| Archetypes   | Text        |
-| Database   | Text        |
-| Resources   | Text        |
-| Contact   | Text        |
-
-
-### Credits
-This project was completed by Mariem Saad and Catherine Zou
+| Home      | This is the first page you will see when you open the website. It has the website name, a quote, a description of why this website is useful, and a disclaimer. It also has an assessment button that will take you to the career quiz. There will also be a tab menu on top so that you can view different tabs. |
+| Assessments   | The assessments page has a link that will take you to the career quiz where there are 16 questions that must all be answered in order to get accurate results. |
+| Archetypes   | The archetypes page will contain of the possible results that you could get after taking the quiz. |
+| Database   | The database will contain of         |
+| Resources   | The resources page will contain all the sources used to create this website (research,       |
+| Contact   | The contact page will conatin the contact info as well as a feedback form.       |
