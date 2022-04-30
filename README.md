@@ -1,5 +1,5 @@
 # uConnect
-The aim of our program is to create a website to help combat prejudice by connecting individuals with potential friends and employers based on personality compatibility rather than surface level factors. To do this, character personality and career personality assessments will be conducted to assign individuals a specific archetype in each category. After an archetype is assigned, individuals will be able to explore all of the archetypes, common obstacles each archetype may face &amp; suggestions on how to overcome those obstacles, as well as have their data saved &amp; displayed in a results database for potential friends and employers to find and explore.
+The aim of our program is to create a website to help combat prejudice by connecting individuals with potential friends and employers based on personality compatibility rather than surface level factors. To do this, character personality and career personality assessments will be conducted to assign individuals a specific archetype in each category. After an archetype is assigned, individuals will be able to explore all of the archetypes, common obstacles each archetype may face; suggestions on how to overcome those obstacles, as well as have their data saved will be displayed in a results database for potential friends and employers to find and explore.
 
 ### Using the Website
 | Page     | Description |
@@ -10,3 +10,6 @@ The aim of our program is to create a website to help combat prejudice by connec
 | Database   | The database will contain of         |
 | Resources   | The resources page will contain all the sources used to create this website (research,       |
 | Contact   | The contact page will conatin the contact info as well as a feedback form.       |
+
+### How the quiz works
+As soon as you start the quiz, you will find 4 question that must all be answered. After answering these questions you must click on next and 4 more questions will appear. You will repeat this 2 more times until you finish all 16 questions. You must make sure that you have answered all question or else the results will be inaccurate. After finishing the quiz, you will be assigned an archetype, common obstacles each archetype may face, and suggestions on how to overcome those obstacles.
